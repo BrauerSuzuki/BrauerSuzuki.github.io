@@ -1,2 +1,2 @@
-# Homepage of Benjamin Sambale
+# Welcome to my homepage!
 I am a data scientist at DAS and an adjunct professor of mathematics at LUH.
